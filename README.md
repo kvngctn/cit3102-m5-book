@@ -1,4 +1,4 @@
-# CIT3102 M5 — Book API
+# CIT3102 M5 — Book Api
 
 **Project:** `cit3102-m5-book`
 **Section:** IT2E
